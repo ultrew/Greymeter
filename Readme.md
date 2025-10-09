@@ -1,4 +1,3 @@
-````markdown
 # 🕵️ Greymeter 1.0
 
 During my internship at *Broskieshub.com* as soluton of problem number 18 I created this all-in-one, web-based **digital forensics tool** designed to detect, analyze, and extract hidden data from files.  
