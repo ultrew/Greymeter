@@ -21,7 +21,7 @@ This tool provides a **multi-layered analysis** approach, combining several tech
 ---
 
 ## 🛠️ Tech Stack
-- **Ai:** Gemini (code), ChatGPT (for)
+- **Ai:** Gemini (code), ChatGPT (research)
 - **Backend:** Python  
 - **Frontend:** Streamlit  
 - **Forensic Tools:** steghide, binwalk, file, dd, exiftool 
@@ -36,7 +36,7 @@ This entire application is containerized with **Docker**, which means you do not
 
 ### 🔧 Prerequisites
 
-You must have Docker installed and running on your system.
+⚠️ You must have Docker installed and running on your system.
 
 - **Windows/macOS:** Install **Docker Desktop**  
 - **Linux:** Install **Docker Engine** and **Docker Compose**
