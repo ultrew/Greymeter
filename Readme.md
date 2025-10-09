@@ -51,7 +51,7 @@ You must have Docker installed and running on your system.
 Open **PowerShell** clone this project's repository:
 
 ```bash
-git clone https://github.com/ultrew/
+git clone https://github.com/ultrew/Greymeter.git
 ````
 
 ### 2. Navigate to the Project Directory
@@ -99,7 +99,7 @@ docker compose down
 Open your terminal and clone this project:
 
 ```bash
-git clone https://github.com/ultrew/AI-Stego-Detector.git
+git clone https://github.com/ultrew/Greymeter.git
 ```
 
 ### 2. Navigate to the Project Directory
