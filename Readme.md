@@ -1,6 +1,6 @@
 # 🕵️ Greymeter 1.0
 
-During my internship at [Broskieshub](https://github.com/ultrew/Broskieshub-Internship) as soluton of problem number 18 I created this all-in-one, web-based **digital forensics tool** designed to detect, analyze, and extract hidden data from files.  
+During my internship at [Broskieshub](https://github.com/ultrew/Broskieshub-Internship) as soluton of problem number 18 I created this all-in-one, **digital forensics tool** designed to detect, analyze, and extract hidden data from files.  
 This application leverages a suite of classic forensic tools and Python libraries, all packaged within a **Docker container** for easy, cross-platform use.
 
 ![](Screenshots/app.png)
