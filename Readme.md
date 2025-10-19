@@ -5,7 +5,7 @@ This application leverages a suite of classic forensic tools and Python librarie
 
 ![](Screenshots/app.png)
 
----
+--- 
 
 ## 📋 Core Features
 
